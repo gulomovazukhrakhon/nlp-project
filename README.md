@@ -37,3 +37,20 @@ The project was developed as part of the **Data Analysis Portfolio** for the IU 
 
 Most common topics included: ***flight delays, rude staff, uncomfortable seating, and poor food quality***.
 
+## 🚀 How to Run
+
+1. Clone the repository or open the notebook in a Kaggle environment
+2. Install required libraries.
+3. Run `project-data-analysis.ipynb` step-by-step
+
+---
+
+
+## 👩‍💻 Author
+
+**Zukhrahon Gulomova**  
+Student, IU International University of Applied Sciences  
+Bachelor of Science in Applied Artificial Intelligence
+
+---
+
